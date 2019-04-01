@@ -27,7 +27,7 @@ Once they have purchased items the database will update with the new amount avai
 
 <img src="images/image2.png">
 
-3. Currently there are 75 "Wifi Outlet Electrical Sockets". Choose the number you would like to puchase and hit enter. I chose 10 for this example. Immediately the table is revised to show that there are now 65 Wifi outlets left.
+3. Currently there are 75 "Wifi Outlet Electrical Sockets" (item #10 in the table). Choose the number you would like to puchase and hit enter. I typed "10" for this example. Immediately the table is revised to show that there are now 65 Wifi outlets left.
 
 <img src="images/image3.png">
 
