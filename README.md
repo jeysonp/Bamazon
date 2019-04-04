@@ -31,5 +31,7 @@ Once they have purchased items the database will update with the new amount avai
 
 <img src="images/image3.png">
 
+* Done for now!
+
 
 
